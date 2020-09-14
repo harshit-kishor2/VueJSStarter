@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+<div align="center">
+    <img src="/src/assets/image.png" width="400px"</img> 
+</div>
